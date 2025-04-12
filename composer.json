@@ -27,7 +27,7 @@
     "ext-ffi": "*",
     "ext-json": "*",
     "ext-zlib": "*",
-    "guzzlehttp/promises": "^1.0"
+    "guzzlehttp/promises": "^2.2"
   },
   "require-dev": {
     "phpunit/phpunit": "^9.4",
