@@ -1,5 +1,5 @@
 {
-  "name": "extraton/php-ton-client",
+  "name": "kodenko/php-ton-client",
   "description": "Extraton, PHP TON client",
   "type": "library",
   "license": "Apache-2.0",
